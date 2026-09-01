@@ -7,6 +7,20 @@
 *Paws for Thought*
 *Wrong Paws*
 
+### Audience
+
+The primary reader is around **ten years old**.
+
+The story should be accessible, funny and exciting at that age without flattening the underlying ideas about perception, misunderstanding, empathy and trust.
+
+### Character baseline
+
+**Dog** is an **English Springer Spaniel**: sturdy, energetic, scent-led, sociable, physically exuberant, strongly motivated by movement and retrieving, and generally unconcerned by ordinary cold, rain and mud.
+
+**Cat** is a **small-ish tortoiseshell domestic shorthair — a moggie**: light, agile, short-haired, spatially precise, cautious about proximity, and much more concerned than Dog with warmth and dryness.
+
+These physical identities should sharpen the characters, not determine them. Breed, coat and build inform behaviour; they do not replace individual temperament.
+
 ---
 
 ## 1. Purpose of the Story
@@ -130,7 +144,7 @@ Their personalities should emerge from strategies that have repeatedly worked fo
 | **Primary environmental information** | Smell-led                                                       | Sound- and sight-led                                   |
 | **Information distance**              | Getting closer often provides more information                  | Useful information can often be gathered at a distance |
 | **Navigation**                        | Scent trails, direct investigation, remembered smells           | Sightlines, sound, landmarks, spatial geometry         |
-| **Build**                             | Heavy, strong, robust                                           | Light, agile, comparatively fragile                    |
+| **Build**                             | Sturdy Springer; heavy, strong, robust                          | Small-ish moggie; light, agile, comparatively fragile |
 | **Movement**                          | Bounding, sustained, momentum-heavy                             | Precise and economical, with sudden bursts             |
 | **Exploration**                       | Enter the environment and investigate it                        | Survey the environment before committing               |
 | **Danger response**                   | Presence, size, noise, warning, confrontation where appropriate | Escape, concealment, height; fight when trapped        |
@@ -141,6 +155,8 @@ Their personalities should emerge from strategies that have repeatedly worked fo
 | **Waiting**                           | Often wants to advance the situation                            | Stillness itself can be a form of investigation        |
 | **Access**                            | Can push through or move some obstacles                         | Can pass through, under or over spaces Dog cannot      |
 | **Confidence**                        | Often strengthened through engagement                           | Often strengthened through environmental understanding |
+| **Weather**                           | Usually keeps going through ordinary cold, rain and mud          | Wet and cold materially affect comfort and route choice |
+| **Play / movement reward**            | Strongly motivated by chasing and retrieving, especially balls  | Movement may trigger watching, stalking, timing or pouncing |
 
 These are **default tendencies**, not absolute rules.
 
@@ -204,10 +220,10 @@ A self-reinforcing misunderstanding follows.
 
 ### Strengths
 
-Dog possesses:
+Dog is an English Springer Spaniel. His sturdy, active body gives him:
 
 * physical strength;
-* weight;
+* substantial weight and momentum;
 * endurance;
 * robustness;
 * the ability to move or push things Cat cannot;
@@ -216,6 +232,8 @@ Dog possesses:
 * the ability to follow scent after visual contact has been lost;
 * strong social motivation;
 * willingness to investigate;
+* strong motivation to chase and retrieve objects, especially balls;
+* a coat, build and activity level that make ordinary cold and wet comparatively unimportant to him;
 * the ability to make a large and intimidating presence when required.
 
 ### Vulnerabilities
@@ -241,7 +259,7 @@ Dog's strength can therefore produce both **courage and recklessness**, dependin
 
 ### Strengths
 
-Cat possesses:
+Cat is a small-ish tortoiseshell domestic shorthair — an ordinary moggie. Her small, precise body gives her:
 
 * agility;
 * lightness;
@@ -266,7 +284,8 @@ Cat is:
 * less able to move heavy objects;
 * less able to use physical confrontation as a first-line strategy;
 * more dependent on environmental knowledge and available escape routes;
-* potentially disadvantaged by cold, wet conditions or loss of concealment.
+* potentially disadvantaged by cold, wet conditions or loss of concealment;
+* short fur that gives wet and cold more immediate practical importance than they usually have for Dog.
 
 Cat's caution can therefore represent **good judgement rather than timidity**.
 
@@ -366,9 +385,13 @@ Dog seeks information by approaching.
 
 Cat seeks information through observation.
 
-### A ball passes
+### A ball is thrown
 
-Both may be interested in movement, but Dog may pursue openly while Cat may stalk, anticipate or intercept.
+Dog's response can be immediate and wholehearted: **chase it, catch it, bring it back, do it again**.
+
+Cat may find the retrieving ritual baffling. From her point of view the humans keep throwing away an object and Dog keeps returning it to them. Her interest in the same movement may be more about watching, stalking, timing or intercepting than repeatedly returning the object.
+
+After the swap, Cat may discover that the urge and physical pleasure of the chase make considerably more sense from inside Dog's Springer body.
 
 ### A sudden noise
 
@@ -400,7 +423,11 @@ Dog may follow where it has been.
 
 ### Getting wet
 
-The consequences of water may be physically different rather than merely matters of taste.
+Dog will often continue through ordinary rain, puddles and mud if something interesting is happening. Activity, coat and temperament make the weather background information.
+
+For Cat, wet fur, cold surfaces and the loss of comfortable dry routes can alter the whole practical map of the environment.
+
+The difference is therefore physical and informational, not simply “Dog likes rain / Cat hates rain”.
 
 ### Being towel-dried
 
@@ -492,40 +519,63 @@ Instead:
 
 # 13. The Jeopardy
 
-At some point the swapped Cat and Dog must encounter a genuine problem.
+The central jeopardy is now a **burglary at the family home while the humans are away**.
 
-The jeopardy should not be arbitrary.
+The burglars should not be arbitrary villains inserted merely to create action. The sequence must test the ideas developed by the story.
 
-It should **test the ideas developed by the story**.
+The solution should require both animals' capabilities and, more importantly, their new understanding of why those capabilities work.
 
-The solution should require capabilities associated with both animals.
+Established elements include:
 
-Ideally:
+* Dog's default trust in humans makes deliberate human aggression shocking rather than routine;
+* Cat's awareness of darkness, height, cover and surprise can become tactically important;
+* Dog's size, bark, physical presence and momentum can make him formidable without turning him into an attack dog;
+* Cat's speed, claws and ability to strike and vanish can disrupt a much larger human;
+* one burglar may retreat or stumble on the stairs amid the confusion and end up with a relatively minor injury such as a sprained ankle;
+* neither animal should defeat the burglars through implausible violence;
+* the solution should come from combining **cat abilities and dog abilities**, not from one animal suddenly becoming generally heroic.
 
-* one character notices something the other cannot;
-* one has access somewhere the other does not;
-* one needs to trust information they cannot personally verify;
-* one character's instinct alone proves insufficient;
-* the solution requires combining both approaches.
+## Open structural decision: before or after the return?
 
-The climax should therefore move beyond understanding into **trust**.
+We are deliberately **not yet deciding** whether the burglary occurs while Cat and Dog are still swapped or shortly after they return to their own bodies.
 
-The important moment is not:
+Both versions have substantial thematic value.
 
-> I finally understand why you do that.
+### If they are still swapped
 
-It is:
+The climax tests **trust in the other's expertise**.
 
-> **You know something I don't. Tell me what to do.**
+Each occupies an unfamiliar body and may need the other to coach them:
 
-Possible forms include:
+> **You know this body. Tell me what it can do.**
 
-* following something that cannot be seen but can be smelled;
-* locating something that can be heard but not reached;
-* using Cat's access to enter a confined area;
-* using Dog's strength to move an obstacle;
-* one animal having to remain still when instinct says charge;
-* one having to act immediately when instinct says wait.
+Dog-in-Cat may have to trust Cat when she tells him to jump, climb, hide, use height or rely on his new legs.
+
+Cat-in-Dog may have to trust Dog when he tells her to bark, push, use her weight, commit to momentum or run directly at something that would be dangerous in Cat's own body.
+
+The climax then completes the progression:
+
+**This body is terrible → I have been using it wrongly → tell me how to use it.**
+
+### If they have already returned
+
+The climax tests **integration of what they learned**.
+
+Cat succeeds by being fully Cat: stealth, hearing, darkness, height, speed, claws and precise hit-and-run action.
+
+Dog succeeds by being fully Dog: bark, mass, momentum, persistence and physical presence.
+
+But each now understands what the other is doing and works with it rather than against it.
+
+The thematic statement becomes:
+
+> **They never needed to become like each other. They needed to understand each other.**
+
+## What must remain true in either version
+
+The burglary should move the story beyond simple understanding into **trust and cooperation**.
+
+One animal should recognise that the other has information, instincts or physical capabilities they do not personally possess.
 
 The final jeopardy should make both sets of abilities indispensable.
 
@@ -533,7 +583,7 @@ The final jeopardy should make both sets of abilities indispensable.
 
 # 14. Emotional Resolution
 
-Once Cat and Dog return to their own bodies, their differences remain.
+Once Cat and Dog are back in their own bodies — whether that happens shortly before the burglary or after it — their differences remain.
 
 Dog still likes being Dog.
 
@@ -651,11 +701,15 @@ The story should avoid:
 
 Every situation does not need one Cat reaction and one precisely opposite Dog reaction.
 
-### Species caricature
+### Species or breed caricature
 
 Cat is not simply aloof.
 
 Dog is not simply stupid and happy.
+
+Dog is not a list of Springer Spaniel stereotypes, and Cat's tortoiseshell colouring does not determine her personality.
+
+Breed, coat and build may support behaviour, but character must still arise from the individual animal's senses, body, experience and motivation.
 
 ### Moral superiority
 
@@ -707,19 +761,22 @@ They gain capabilities but also experience vulnerabilities they had previously d
 
 ### ACT IV — JEOPARDY
 
-A genuine problem occurs.
+Burglars enter the home while the humans are away.
 
-Neither animal's preferred strategy is sufficient.
+Cat and Dog must combine cat abilities and dog abilities, along with what they have learned about one another.
 
-Each must use what has been learned and trust the other's knowledge.
+The precise placement of the return remains open:
 
-They save one another and/or someone or something important.
+* **still swapped during the burglary** — the climax tests trust and mutual coaching inside unfamiliar bodies;
+* **returned shortly before the burglary** — the climax tests whether each can apply their new understanding while using their own instincts and body.
 
-### ACT V — RETURN
+Neither option is currently canonical.
 
-They return to their own bodies.
+### ACT V — RESOLUTION
 
-Their old instincts return too.
+Cat and Dog are back in their own bodies.
+
+Their familiar instincts remain.
 
 But their behaviour towards one another changes in small, observable ways.
 
