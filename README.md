@@ -8,8 +8,10 @@
 | [controller.md](controller.md) | Instructions for directing character agents, controlling experiences, resolving actions and reviewing an experiment. |
 | [characters/Cat.md](characters/Cat.md) | Cat's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
 | [characters/Dog.md](characters/Dog.md) | Dog's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
-| [beat-files/acts/](beat-files/acts/) | Act plans. Act I develops the opening; Act IV proposes a burglary after the animals return to their own bodies. That timing remains an open decision in this framework. |
-| [beat-files/chapters/](beat-files/chapters/) | Detailed plans for Cat's and Dog's opening chapters. These contain alternatives that still need reconciling with Act I before using them together. |
+| [beat-files/](beat-files/) | Each act has its own folder containing its act plan and, as they are developed, a `chapters/` folder of detailed chapter beat files. An act contains an ordered series of chapters. |
+| [beat-files/act-1/](beat-files/act-1/) | Act I's plan establishes the opening chapters' progression and collective dramatic purpose. |
+| [beat-files/act-1/chapters/](beat-files/act-1/chapters/) | Detailed plans for Act I's Chapters 1 and 2. Some details still need reconciling with the act plan. |
+| [beat-files/act-4/](beat-files/act-4/) | Act IV's plan proposes a burglary after the animals return to their own bodies; that timing remains an open decision in this framework. |
 
 ## Creative Intent & Story Framework
 
