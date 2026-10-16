@@ -606,7 +606,7 @@ Dog can be frightened or hurt in his own body. Cat's intervention matters becaus
 
 ### If the burglary happens while they are still swapped
 
-Cat may be the one occupying Dog's body when human aggression arrives. Dog-in-Cat may have to use Cat's body according to Cat's coaching, while Cat-in-Dog learns to use Dog's bark, weight and momentum according to his.
+Cat may be the one occupying Dog's body when human aggression arrives. Each retains their own complete non-physical persona, including memories, wishes and fears. Dog's history of trusting humans belongs to him, rather than transferring to Cat with his body. Both must use what they have learned about their unfamiliar bodies and each other's behaviour; without a shared language, they cannot verbally coach one another.
 
 The emotional function is similar in either version:
 

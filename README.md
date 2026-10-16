@@ -1,5 +1,16 @@
 # CAT AND DOG
 
+## Important file locations
+
+| Location | Purpose |
+| --- | --- |
+| [README.md](README.md) | Creative intent, audience, shared story rules, overall arc and open structural decisions. |
+| [controller.md](controller.md) | Instructions for directing character agents, controlling experiences, resolving actions and reviewing an experiment. |
+| [characters/Cat.md](characters/Cat.md) | Cat's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
+| [characters/Dog.md](characters/Dog.md) | Dog's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
+| [beat-files/acts/](beat-files/acts/) | Act plans. Act I develops the opening; Act IV proposes a burglary after the animals return to their own bodies. That timing remains an open decision in this framework. |
+| [beat-files/chapters/](beat-files/chapters/) | Detailed plans for Cat's and Dog's opening chapters. These contain alternatives that still need reconciling with Act I before using them together. |
+
 ## Creative Intent & Story Framework
 
 **Working titles:**
@@ -447,6 +458,20 @@ The body swap is not merely a comic device.
 
 It is the mechanism through which each character's assumptions are tested.
 
+### What transfers
+
+Their complete non-physical personas exchange bodies: personality, memories, wishes and fears remain with the individual character. Neither receives the other's memories or understanding of the world.
+
+Physical senses, capabilities and limitations belong to the body they now inhabit. Each learns about the other through experiencing that body while remaining themselves.
+
+### Communication
+
+Cat and Dog have no shared language and cannot converse directly, before, during or after the swap. Written thoughts express a character's private experience; they are not speech the other can understand.
+
+They gradually learn empathy and sympathy, and become better able to convey some meanings through posture, movement, sounds, proximity and action. Understanding another's intentions remains an interpretation, not access to their thoughts. Cooperation must arise through these signals and their growing understanding of each other's worlds and motivations.
+
+### Learning an unfamiliar body
+
 Initially, each should attempt to behave **as themselves inside the other's body**.
 
 This will fail.
@@ -545,17 +570,13 @@ Both versions have substantial thematic value.
 
 The climax tests **trust in the other's expertise**.
 
-Each occupies an unfamiliar body and may need the other to coach them:
+Each occupies an unfamiliar body and must draw on what they have learned through experience and observation. They cannot explain techniques or give verbal instructions to one another.
 
-> **You know this body. Tell me what it can do.**
-
-Dog-in-Cat may have to trust Cat when she tells him to jump, climb, hide, use height or rely on his new legs.
-
-Cat-in-Dog may have to trust Dog when he tells her to bark, push, use her weight, commit to momentum or run directly at something that would be dangerous in Cat's own body.
+Dog-in-Cat may recognise Cat's attention to a high route and trust the possibilities of his new body. Cat-in-Dog may recognise Dog's alarm or movement towards a threat and respond using her new bark, weight or momentum. Such meanings must be supported by observable signals and prior experience, rather than treated as precise instructions.
 
 The climax then completes the progression:
 
-**This body is terrible → I have been using it wrongly → tell me how to use it.**
+**This body is terrible → I have been using it wrongly → I understand what it can do, and what the other needs from me.**
 
 ### If they have already returned
 
@@ -609,7 +630,7 @@ Cat notices.
 
 Or Cat hears something unusual and initially dismisses Dog's desire to investigate it, then remembers what scent was like.
 
-Cat asks Dog what he can smell.
+Cat watches where Dog's nose leads him and gives him room to investigate.
 
 These small choices demonstrate that their experience of the swap continues to affect their behaviour.
 
@@ -737,6 +758,8 @@ The final danger should arise naturally from the established world and mechanics
 
 At its simplest:
 
+Acts II and III are still to be written in detail. Their summaries below describe the intended progression, not completed scene or chapter plans.
+
 ### ACT I — MISUNDERSTANDING
 
 Cat and Dog live together.
@@ -767,7 +790,7 @@ Cat and Dog must combine cat abilities and dog abilities, along with what they h
 
 The precise placement of the return remains open:
 
-* **still swapped during the burglary** — the climax tests trust and mutual coaching inside unfamiliar bodies;
+* **still swapped during the burglary** — the climax tests trust and cooperation inside unfamiliar bodies, using experience and non-verbal signals;
 * **returned shortly before the burglary** — the climax tests whether each can apply their new understanding while using their own instincts and body.
 
 Neither option is currently canonical.

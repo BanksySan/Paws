@@ -552,7 +552,7 @@ Cat can deliberately use her own feline strengths in defence of Dog: darkness, c
 
 ### If the burglary happens while they are still swapped
 
-Dog-in-Cat may have to perform those actions instead. Cat's role then becomes partly that of expert and coach: she knows what this small body can survive, how far it can jump, where it can hide and when it must not confront a human head-on.
+Dog-in-Cat may have to perform those actions instead, drawing on what he has learned in Cat's body. Cat retains her knowledge of its capabilities, but cannot explain them to him: they have no shared language. Any guidance must come through observable behaviour and meanings they have learned to recognise.
 
 In either version, feline violence should remain **brief, tactical and distance-making**, not prolonged combat.
 
@@ -673,9 +673,7 @@ Cat may find it overwhelming, vulgar and astonishing — and then addictive.
 
 ### Social gravity
 
-Dog's body seems drawn towards people and dogs.
-
-Part of this is temperament, but part is that approaching gives access to richer information.
+Approaching people and dogs gives Cat access to richer sensory information inside Dog's body. She retains her own temperament, memories, wishes and fears; she does not acquire Dog's sociability or his trust in strangers.
 
 Cat finally understands the mechanic:
 
