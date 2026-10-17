@@ -6,6 +6,8 @@
 | --- | --- |
 | [README.md](README.md) | Creative intent, audience, shared story rules, overall arc and open structural decisions. |
 | [controller.md](controller.md) | Instructions for directing character agents, controlling experiences, resolving actions and reviewing an experiment. |
+| [scripts/README.md](scripts/README.md) | Bun/TypeScript CLI for preparing private agent packets, snapshotting sources and recording manual experiments. |
+| [experiment-config/](experiment-config/) | Experiment configurations and explicitly reviewed character profiles; includes a Dog opening example. |
 | [characters/Cat.md](characters/Cat.md) | Cat's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
 | [characters/Dog.md](characters/Dog.md) | Dog's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
 | [beat-files/](beat-files/) | Each act has its own folder containing its act plan and, as they are developed, a `chapters/` folder of detailed chapter beat files. An act contains an ordered series of chapters. |

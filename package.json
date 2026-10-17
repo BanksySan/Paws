@@ -1,0 +1,9 @@
+{
+  "name": "paws-story-experiments",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "experiment": "bun run scripts/experiment.ts",
+    "test": "bun test"
+  }
+}
