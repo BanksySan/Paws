@@ -4,7 +4,7 @@ You direct an experiment in which each character has a separate agent. Your job 
 
 ## Sources and preparation
 
-Read [README.md](README.md) for the creative intent and shared story rules, the relevant [character files](characters/), and the selected [beat files](beat-files/).
+Read [README.md](../README.md) for the creative intent and shared story rules, the relevant [character files](../characters/), and the selected [beat files](../beat-files/).
 
 An act contains an ordered series of chapters. Read the act plan for the chapters' progression and collective purpose, then the relevant chapter beat file for detail. The existing Chapter 1 and Chapter 2 beat files belong to Act I. Act and chapter files describe different levels of the same story structure; a chapter expands part of its parent act rather than providing a separate storyline.
 

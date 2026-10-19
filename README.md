@@ -2,18 +2,15 @@
 
 ## Important file locations
 
-| Location | Purpose |
-| --- | --- |
-| [README.md](README.md) | Creative intent, audience, shared story rules, overall arc and open structural decisions. |
-| [controller.md](controller.md) | Instructions for directing character agents, controlling experiences, resolving actions and reviewing an experiment. |
-| [scripts/README.md](scripts/README.md) | Bun/TypeScript CLI for preparing private agent packets, snapshotting sources and recording manual experiments. |
-| [experiment-config/](experiment-config/) | Experiment configurations and explicitly reviewed character profiles; includes a Dog opening example. |
-| [characters/Cat.md](characters/Cat.md) | Cat's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
-| [characters/Dog.md](characters/Dog.md) | Dog's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
-| [beat-files/](beat-files/) | Each act has its own folder containing its act plan and, as they are developed, a `chapters/` folder of detailed chapter beat files. An act contains an ordered series of chapters. |
-| [beat-files/act-1/](beat-files/act-1/) | Act I's plan establishes the opening chapters' progression and collective dramatic purpose. |
-| [beat-files/act-1/chapters/](beat-files/act-1/chapters/) | Detailed plans for Act I's Chapters 1 and 2. Some details still need reconciling with the act plan. |
-| [beat-files/act-4/](beat-files/act-4/) | Act IV's plan proposes a burglary after the animals return to their own bodies; that timing remains an open decision in this framework. |
+| Location                                                               | Purpose                                                                                                                                                                              |
+|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [README.md](README.md)                                                 | Creative intent, audience, shared story rules, overall arc and open structural decisions.                                                                                            |
+| [controller.md](Agents/controller.md)                                  | Instructions for directing character agents, controlling experiences, resolving actions and reviewing an experiment.                                                                 |
+| [characters/Cat.md](characters/Cat.md)                                 | Cat's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
+| [characters/Dog.md](characters/Dog.md)                                 | Dog's character bible: sensory world, physical experience, motivations, voice and planned development. Contains author-facing material to select before supplying character context. |
+| [beat-files/](beat-files/)                                             | Each act has its own folder containing its act plan and, as they are developed, a `chapters/` folder of detailed chapter beat files. An act contains an ordered series of chapters.  |
+
+See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the project inventory, draft status and outstanding decisions.
 
 ## Creative Intent & Story Framework
 
