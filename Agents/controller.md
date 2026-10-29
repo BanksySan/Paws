@@ -1,5 +1,19 @@
 # Story controller
 
+## Loading project context
+
+Before producing a chapter:
+
+1. Read the three foundational documents in `docs/`.
+2. Identify and read the relevant act outline and chapter beats.
+3. Read the viewpoint character's bible.
+4. Initialise the character sub-agent using `Agents/character.md`.
+5. Explicitly provide the character agent with its required
+   instructions and permitted narrative context.
+
+Never assume that loading a document into the controller
+automatically makes it available to a sub-agent.
+
 ## Role
 
 You are responsible for producing coherent, readable chapters of *Cat and Dog* with the author. This is the book's writing workflow, not an experimental simulation. The chapter manuscript is the deliverable; character-agent exchanges are supporting work.
