@@ -232,9 +232,9 @@ becoming, for the first time:
 
 The wrong body should feel genuinely wrong.
 
-### Do not make either animal magically gain the other's instincts
+### Do not make either animal instantly acquire the other's learned expertise
 
-They possess the body, not the accumulated understanding of how to use it.
+The new body supplies its innate reflexes, reaction times, coordination and behavioural predispositions, as established in canon. It does **not** supply the previous occupant's memories, personality or practised understanding of how to use those capabilities.
 
 ### Do not turn the act into a zoology lesson
 
