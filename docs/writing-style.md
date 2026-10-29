@@ -19,7 +19,7 @@ The rules below express our chosen style. Where a choice remains provisional, it
 
 ## 2. Two interlocking accounts
 
-1. **Chapters alternate strictly:** Cat, Dog, Cat, Dog, beginning with Cat in the current plan. Do not change the pattern merely to accommodate a particular scene.
+1. **Choose the viewpoint character according to the story's needs.** Chapters may follow either Cat or Dog; select the account that best serves the events, while ensuring the overlapping timelines and distinct viewpoints remain understandable.
 2. **Overlapping viewpoints are a defining feature, not an occasional flourish.** We will often revisit events or stretches of time through the other animal's account. The first two chapters, for example, take place at almost the same time.
 3. **Prefer interlocking rather than mechanically parallel coverage.** The chapters need not begin and end together. Cat might narrate an afternoon while Dog's account begins earlier and carries on beyond the event they share.
 4. **A shared event need not be equally important to both.** One animal may barely notice what dominates the other's account; there is no requirement to give each event an equal or opposite reaction.
