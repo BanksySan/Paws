@@ -1,205 +1,205 @@
-# Chapter 3 — The Great Towel Escape — Dog's Perspective
+# Chapter 3 — The Great Towel Escape — Dog's perspective
 
-## Nearly Home
+## Nearly home
 
 1. Dog can see the house ahead.
-    1. They have had an excellent walk: snow, wonderful smells, other dogs, the ball, and Big Human to enjoy it all with.
-    2. Home is excellent too. The rest of his humans are there, and dinner will be happening soon.
-    3. Dog begins to hurry. There is no obvious reason to approach home slowly.
-2. Dog pulls ahead and reaches the end of the lead.
-    1. Big Human is still walking at his usual, unnecessarily measured pace.
+    1. It has been an excellent walk: snow, extraordinary smells, friends, the ball, and Big Human to enjoy it all with.
+    2. Home is excellent too. The rest of the family is there, and dinner cannot be far away.
+    3. Dog begins to hurry. There is no obvious reason to approach such a good place slowly.
+2. Dog draws ahead and reaches the end of his lead.
+    1. Big Human continues at his usual, unnecessarily measured pace.
     2. *Heel!* says Big Human.
-    3. Dog knows exactly what this means. He returns to Big Human's side.
-    4. Big Human sounds pleased, and Dog looks up for the familiar acknowledgement.
-    5. A word in the good voice, perhaps a brief touch. They continue together.
-    6. The house is getting closer. This is encouraging.
-3. Big Human opens the front door and calls something into the house.
-    1. Another Human answers in a familiar, friendly voice.
-    2. Dog recognises it at once.
-    3. The family is here. Everything is as it should be.
+    3. Dog knows what this means. He returns to Big Human's side, even though the house is very close.
+    4. Big Human gives him the familiar pleased voice, perhaps a quick touch.
+    5. Dog looks up, delighted to have got it right. They continue together.
+3. Big Human opens the front door and calls into the house.
+    1. Another Human answers from somewhere inside.
+    2. Dog recognises the voice immediately.
+    3. The family is here. Everything is where it should be.
 
-## The House Is Full of News
+## The house is full of news
 
 4. Dog steps into a hallway rich with familiar smells.
     1. Dinner has been cooking while they were out.
-    2. Meat, vegetables and something sweet mingle with the ordinary smell of home.
-    3. Dog would be quite willing to investigate the food more closely.
-5. Cat's familiar smell is here too.
-    1. Cat has been about the house.
-    2. Dog is pleased she is home.
-    3. He doesn't know exactly where she is, and there are plenty of other interesting things happening.
-6. The Little Humans have left their own trail of information.
-    1. They have passed through the hallway recently.
-    2. One has eaten something interesting.
-    3. Dog can hear signs of activity upstairs.
-    4. Upstairs is a particularly good part of the house: Little Humans, beds, games and things to investigate.
-7. Big Human closes the door and removes Dog's lead.
-    1. Dog is ready to join in with whatever is happening next.
-    2. Big Human, however, has a different plan.
+    2. There is meat, there are vegetables, and something sweet has been somewhere nearby.
+    3. Dog would be quite happy to investigate the food more closely.
+5. Cat's familiar scent is here too.
+    1. She has been about the house.
+    2. Dog is pleased that she is home.
+    3. He doesn't know where she is now; the scent doesn't tell him that, and there are plenty of other things happening.
+6. The Little Humans have left interesting traces in the hallway.
+    1. They have passed through recently.
+    2. One has eaten something worth investigating.
+    3. There are voices or footsteps from upstairs.
+    4. Upstairs is an excellent part of the house. Little Humans, beds and opportunities to join in.
+7. Big Human closes the door and takes Dog's lead off.
+    1. Dog is ready to find out what else is happening at home.
+    2. Big Human has another plan.
 
-## The Towel
+## The towel
 
 8. Big Human produces a towel.
-    1. Dog knows this routine. It often follows an especially satisfying wet walk.
-    2. He is not particularly troubled by the dampness himself.
+    1. Dog knows the routine. It often follows a particularly enjoyable wet walk.
+    2. Dog is not especially troubled by the snowmelt and mud on his coat.
     3. Evidently Big Human is.
-9. Big Human begins rubbing Dog vigorously.
-    1. Dog rather likes this part.
-    2. The towel rubs his back and sides, and he leans into it.
-    3. Big Human talks to him in a familiar voice.
-    4. Dog's tail moves. They are doing something together, which is good.
+9. Big Human rubs Dog's back and sides.
+    1. This is rather pleasant.
+    2. Dog leans into the rubbing and enjoys Big Human's attention.
+    3. Big Human talks to him in the friendly voice.
+    4. They are doing something together; Dog likes that.
 10. Unfortunately, the procedure continues.
-    1. Big Human wants Dog to remain in approximately the same place.
+    1. Big Human expects Dog to stay more or less in one place.
     2. He begins drying Dog's legs and paws.
-    3. Dog lifts a paw, partly because Big Human asks and partly because he would like to move it elsewhere.
-    4. Big Human is pleased with his cooperation.
-    5. Dog enjoys the praise. The paw cleaning is still unnecessary.
-11. Big Human attempts to dry around Dog's back legs and tail.
-    1. This is even more unnecessary.
-    2. Dog shifts his weight, turns and tries to see what Big Human is doing.
-    3. Big Human gently guides him back into place.
-    4. There seems to be no end to the number of paws that require attention.
+    3. Dog lifts a paw when asked. He knows this part of the routine.
+    4. Big Human praises him. Dog enjoys getting it right.
+    5. But the paws were perfectly satisfactory before all this fuss began.
+11. Big Human moves to Dog's back legs and tail.
+    1. This seems even less necessary.
+    2. Dog turns to see what is going on; Big Human gently turns him back.
+    3. There is an astonishing amount of Dog to be dried, apparently.
 12. Something happens upstairs.
-    1. A Little Human's voice, or footsteps moving about.
-    2. Dog's ears turn towards the sound.
-    3. Upstairs! There may be something happening without him.
-    4. And there are beds up there. Wonderful things, beds.
-13. Dog looks towards the stairs.
-    1. Big Human is still occupied with the towel.
-    2. Dog rather likes Big Human, the rubbing and the attention.
-    3. But he has been standing still for quite long enough.
+    1. A Little Human's voice, perhaps footsteps crossing a room.
+    2. Dog turns his ears towards the sound.
+    3. Upstairs! Something interesting might be happening without him.
+    4. There are beds up there too. Wonderful things, beds.
+13. Dog glances towards the stairs.
+    1. He likes Big Human and he rather likes the rubbing.
+    2. He has cooperated for quite long enough, though.
+    3. Big Human is still busy with the towel.
 
-## The Great Escape
+## The great escape
 
-14. Big Human shifts his grip to reach another wet patch.
-    1. For a moment the towel is no longer in Dog's way.
-    2. Dog sees his chance.
-15. Dog twists free.
-    1. One wriggle, a turn and an enormous spring forwards.
+14. Big Human shifts the towel to reach another damp patch.
+    1. For an instant there is a gap.
+    2. Dog sees an opportunity to move on to another activity.
+15. Dog wriggles free.
+    1. A twist, a turn, a powerful spring forwards.
     2. The towel slips away behind him.
-    3. Big Human calls after him.
-16. Dog is already heading for the stairs.
-    1. Big Human sounds as though he wants the drying game to continue.
-    2. Dog has a better idea.
-    3. His damp paws thump on the steps.
-    4. Wet fur, mud and assorted small pieces of the park travel with him.
-17. Dog bounds upwards.
-    1. The stairs are familiar; he knows them well.
-    2. There is activity above, and he wants to be part of it.
-    3. Behind him, Big Human is following and calling.
-    4. Dog has no intention of leaving the house. He's simply going to enjoy more of it.
+    3. Big Human calls after him. He sounds surprised.
+16. Dog heads for the stairs.
+    1. He isn't running away from Big Human; he's going to find out what else they can do.
+    2. Big Human evidently wants the towel activity to continue.
+    3. Dog thinks they can do something much better first.
+    4. Wet paws thump on the stairs, carrying mud and assorted bits of the park upwards.
+17. Dog bounds upstairs.
+    1. These are familiar stairs; he can take them at speed.
+    2. Big Human follows some distance behind, calling him back.
+    3. Dog hears him, but the upstairs possibilities are terribly exciting.
 
-## An Excellent Surprise
+## An excellent surprise
 
-18. Dog reaches the bedroom and charges inside.
-    1. There is a bed!
-    2. And, curled up comfortably on it, there is Cat!
-    3. What an excellent surprise.
-19. Dog is delighted.
-    1. He likes Cat.
+18. Dog rushes into the bedroom.
+    1. A bed! One of the best things upstairs.
+    2. And there, curled comfortably on it, is Cat.
+    3. What an excellent surprise!
+19. Dog is delighted to find her.
+    1. Dog likes Cat.
     2. He doesn't always understand her, but she is familiar and part of home.
-    3. He hadn't come upstairs looking for her. Now that she is here, of course he wants to say hello.
+    3. He had not come upstairs looking for her. Now that she is here, a greeting seems the obvious thing to do.
 20. Dog bounds onto the bed.
-    1. His weight makes the bedding shift.
-    2. Wet paws land where the covers had been warm and dry.
-    3. Water and melting snow shake loose from his coat.
-    4. His tail is moving and his whole body is full of greeting.
+    1. His weight makes the mattress move.
+    2. Damp paws land on the warm, dry covers.
+    3. Meltwater and snow shake loose from his fur.
+    4. His tail sweeps enthusiastically. The whole of Dog is pleased to see Cat.
 21. Dog pushes his nose towards Cat.
     1. He wants to get close, sniff her properly and say hello.
-    2. She smells of familiar rooms, warm bedding and herself.
-    3. This seems an excellent way to finish an excellent walk.
+    2. She smells familiar: Cat, warm bedding and the rooms she has visited.
+    3. This is an excellent addition to an already excellent evening.
 
-## The Greeting Goes Wrong
+## The greeting goes wrong
 
 22. Cat bolts away from him.
-    1. Dog is startled by how quickly she moves.
-    2. He has only just arrived.
-    3. Surely the greeting cannot be over already.
-23. Cat springs onto the windowsill.
+    1. Dog is surprised. He has only just arrived.
+    2. Surely the greeting cannot be over already.
+23. Cat crosses the room and leaps onto the windowsill.
     1. Dog watches her go.
-    2. Cat is very good at reaching places that require considerably more effort from Dog.
+    2. Cat is remarkably good at getting to places he cannot easily reach.
+    3. Perhaps she wants him to come over there instead.
 24. Dog jumps down and follows her across the room.
-    1. He still wants to greet her.
-    2. Perhaps she wants him to come over there instead.
-25. Cat holds herself tightly on the sill.
-    1. Her ears turn back.
-    2. The tip of her tail flicks sharply.
-    3. Dog notices the movement. Tails are important, and hers is certainly moving.
-    4. He reads the activity as engagement rather than the warning Cat intends.
+    1. His paws land heavily on the floor.
+    2. He still wants to say hello.
+25. Cat turns to face him from the sill.
+    1. Her body is tight and her ears are turning back.
+    2. The tip of her tail twitches, then flicks sharply.
+    3. Dog notices the movement. Tails matter, and hers is certainly moving.
+    4. He mistakes the movement and attention for engagement, rather than increasing irritation.
 26. Cat growls and hisses.
-    1. The sound is unpleasant, and Dog pauses.
-    2. Cat makes noises like this sometimes. He has never quite understood why.
-    3. She is looking directly at him, and her tail is still moving.
-    4. He wants to get close enough to finish saying hello and work out what is wrong.
-27. Dog rises onto his hind legs and places his front paws near the windowsill.
-    1. His large body takes up much of the space in front of Cat.
-    2. From where he stands, getting his nose closer is an ordinary way to investigate.
-    3. He doesn't notice that he is now occupying the route Cat might otherwise have used to get away.
+    1. The sound is sharp and unpleasant. Dog stops for a moment.
+    2. Cat makes noises like this sometimes, and he has never worked out why.
+    3. Her tail is still moving; she is still watching him.
+    4. He wants to get closer, smell her properly and discover what is wrong.
+27. Dog continues and rises onto his hind legs.
+    1. He puts his front paws up towards the windowsill.
+    2. His broad body fills much of the space beneath Cat.
+    3. He reaches his nose upwards towards her.
+    4. He does not realise that he is blocking her easiest route back into the room.
 28. Cat hisses again, louder.
-    1. Her ears are flattened and her tail lashes from side to side.
-    2. Dog hesitates properly this time.
-    3. That was definitely not a friendly sound.
-    4. But he still cannot understand why a simple hello has become so difficult.
-29. Dog moves his nose a little closer.
-    1. He means no harm.
-    2. He is still trying to complete the greeting.
-    3. To Cat, though Dog does not realise it, he is now much too close.
+    1. Her ears are flattened. Her tail lashes from side to side.
+    2. Dog stops again. That was definitely not a friendly sound.
+    3. But he still cannot understand why a perfectly ordinary greeting is going so badly.
+29. Dog moves his head a little closer once more.
+    1. He means no harm and has still not finished investigating.
+    2. He doesn't appreciate that Cat has nowhere comfortable left to retreat.
 
-## The Scratch
+## The scratch
 
 30. Cat strikes.
-    1. One paw flashes out with astonishing speed.
+    1. One paw flashes out, astonishingly fast.
     2. A claw catches Dog across the nose.
 31. Dog yelps and springs backwards.
-    1. His nose hurts.
-    2. The suddenness of it shocks him almost as much as the sting.
-    3. His front paws hit the floor and he backs away from the sill.
+    1. His nose stings.
+    2. The shock is worse for being so unexpected.
+    3. His paws return to the floor and he backs away from the windowsill.
 32. Dog stares at Cat.
-    1. Cat remains on the windowsill, tense and watchful.
-    2. Her tail is still lashing.
-    3. Dog had been so pleased to find her.
-    4. He cannot understand why she attacked him.
-33. Dog does not try again.
-    1. Whatever Cat meant, the scratch was unmistakable.
-    2. He keeps his distance now.
-    3. His nose still stings.
+    1. She is still on the sill, tense, ears back and tail lashing.
+    2. He had been so pleased to find her.
+    3. Why would she do that?
+33. Dog does not approach again.
+    1. Whatever the earlier signals meant, the scratch is unmistakable.
+    2. He now knows she wants him to keep away.
+    3. He still doesn't understand why.
 
-## Everyone Comes Running
+## Two different kinds of comfort
 
-34. Big Human and another Human hurry into the bedroom.
-    1. They have heard Dog's yelp and the commotion upstairs.
-    2. Big Human examines Dog's nose.
-    3. Dog welcomes the familiar hands and concerned voices.
-35. Another Human notices the bed.
-    1. The covers are wet.
-    2. There are paw marks on them.
-    3. Quite a lot of the walk seems to have arrived in the bedroom with Dog.
-36. A Little Human arrives.
-    1. Little Human sees Dog's nose and comes close to comfort him.
-    2. Dog receives a hug and affectionate attention.
-    3. This is much more like the sort of greeting he had been hoping for.
-37. Little Human starts towards Cat.
-    1. Cat has not moved from the windowsill.
-    2. Big Human speaks gently to Little Human.
-    3. Little Human stops and gives Cat space.
-    4. Dog notices the humans' attention but does not understand why Cat is being left alone after scratching him.
-38. Dog glances back towards Cat.
-    1. As far as he can tell, he escaped the towel, found Cat, tried to say hello and was scratched for no reason.
-    2. He is hurt, surprised and thoroughly baffled.
+34. Big Human reaches the bedroom, with Little Human arriving soon after.
+    1. Big Human has followed Dog upstairs and now hears the yelp.
+    2. He comes to Dog and gently checks his nose.
+    3. Dog welcomes the familiar concern, although his nose is sore.
+    4. Big Human notices the damp paw marks and wet bedcovers too.
+35. Little Human notices Cat on the windowsill.
+    1. She starts towards Cat, apparently wanting to comfort her.
+    2. Dog watches. Cat has just scratched him; why would anyone go over there?
+36. Big Human calls or signals gently to Little Human.
+    1. Little Human stops before reaching Cat.
+    2. Big Human encourages her to leave Cat some space.
+    3. Little Human turns back instead.
+37. Little Human comes to Dog.
+    1. She looks at his nose and gives him a big hug.
+    2. Dog is delighted by this sort of attention, even with a sore nose.
+    3. Here is someone who understands a greeting.
+    4. He leans into her and enjoys being fussed over.
+38. Big Human gently encourages Little Human to take Dog back downstairs.
+    1. Dog is willing to go with her, especially now that he is getting some affection.
+    2. He looks back at Cat, still on the windowsill.
+    3. He cannot understand why she became so unfriendly when he had only wanted to say hello.
+    4. Little Human and Dog leave the bedroom together.
+    5. Big Human stays with Cat.
 
-## The Towel Has Not Been Forgotten
+## The towel has not been forgotten
 
-39. Big Human leads Dog out of the room.
-    1. Dog is willing enough to go with him now.
-    2. Cat stays where she is.
-40. Downstairs, the towel is waiting.
-    1. Apparently the drying game was not finished after all.
-    2. Dog still doesn't see why a little dampness causes such a fuss.
-41. Big Human resumes drying him.
-    1. Dog accepts the attention and perhaps leans into the rubbing once more.
-    2. Being with Big Human is reassuring after the shock upstairs.
-    3. But Cat's behaviour makes no sense at all.
-42. Dog is still baffled by Cat.
-    1. He had only wanted to say hello.
-    2. Big Human is here, at least, and the rubbing is quite pleasant.
-    3. The towel, however, remains an entirely unnecessary amount of fuss.
+39. Dog reaches the hallway downstairs with Little Human.
+    1. There is still the smell of dinner.
+    2. Little Human is friendly company, and Dog is glad to have her nearby.
+    3. The towel is still here too.
+40. Big Human comes back downstairs after a little while.
+    1. He has been upstairs with Cat, but Dog does not know exactly what happened there.
+    2. Big Human is pleased to see Dog waiting.
+41. Big Human resumes the drying.
+    1. Dog accepts the familiar rubbing and perhaps leans into it.
+    2. Being close to Big Human is reassuring after such a confusing encounter.
+    3. Dog is still damp. Big Human evidently considers that a problem.
+42. Dog is left baffled by Cat.
+    1. He had escaped the towel, found a bed and discovered Cat — all excellent developments.
+    2. He had only tried to say hello.
+    3. Cat scratched him. He knows to keep his distance now, but he cannot understand her reasons.
+    4. At least Big Human and Little Human make sense. The towel, however, is another matter.
